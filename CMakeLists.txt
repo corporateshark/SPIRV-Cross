@@ -19,8 +19,8 @@
 #  2. The MIT License, found at <http://opensource.org/licenses/MIT>.
 #
 
-cmake_minimum_required(VERSION 3.10)
-set(CMAKE_CXX_STANDARD 11)
+cmake_minimum_required(VERSION 3.19)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
 # Avoid a warning if parent project sets VERSION in project().

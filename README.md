@@ -42,7 +42,7 @@ It is also the only build system which has install commands and other useful bui
 
 However, you can just run `make` on the command line as a fallback if you only care about the CLI tool.
 
-A non-ancient GCC (4.8+) or Clang (3.x+) compiler is required as SPIRV-Cross uses C++11 extensively.
+A non-ancient GCC (4.8+) or Clang (3.x+) compiler is required as SPIRV-Cross uses C++11 extensively and C++17.
 
 ### Windows
 
